@@ -1,0 +1,13 @@
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\bin\Debug\netcoreapp3.1\HealthCheck.exe
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\obj\Debug\netcoreapp3.1\HealthCheck.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\obj\Debug\netcoreapp3.1\HealthCheck.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\obj\Debug\netcoreapp3.1\HealthCheck.AssemblyInfo.cs
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\bin\Debug\netcoreapp3.1\HealthCheck.deps.json
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\bin\Debug\netcoreapp3.1\HealthCheck.runtimeconfig.json
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\bin\Debug\netcoreapp3.1\HealthCheck.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\bin\Debug\netcoreapp3.1\HealthCheck.dll
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\bin\Debug\netcoreapp3.1\HealthCheck.pdb
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\obj\Debug\netcoreapp3.1\HealthCheck.csproj.CopyComplete
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\obj\Debug\netcoreapp3.1\HealthCheck.dll
+C:\Users\rodri\source\repos\HealthCheck\HealthCheck\obj\Debug\netcoreapp3.1\HealthCheck.pdb
